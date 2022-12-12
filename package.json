@@ -8,8 +8,8 @@
     "test": "nx test"
   },
   "private": true,
-  "dependencies": {},
   "devDependencies": {
+    "@nrwl/next": "^15.3.2",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/workspace": "15.3.2",
     "nx": "15.3.2",
