@@ -6,7 +6,9 @@
     "start": "nx serve",
     "build": "nx build",
     "test": "nx test",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "lint:app": "pnpm nx run app:lint",
+    "lint:app-e2e": "pnpm nx run app-e2e:lint"
   },
   "private": true,
   "devDependencies": {
