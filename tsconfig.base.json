@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@cocker/midi-obs": ["libs/midi-obs/src/index.ts"],
       "@midi-cocker/shared/ui": ["libs/shared/ui/src/index.ts"]
     }
   },
