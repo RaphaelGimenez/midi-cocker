@@ -1,1 +1,1 @@
-export * from './lib/midi-obs';
+export * from './lib/midi';

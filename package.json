@@ -81,12 +81,15 @@
     "@mantine/next": "^5.9.5",
     "@mantine/notifications": "^5.9.5",
     "@mantine/spotlight": "^5.9.5",
+    "@types/webmidi": "^2.0.6",
     "core-js": "^3.6.5",
     "embla-carousel-react": "^7.0.5",
     "next": "13.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "regenerator-runtime": "0.13.7",
-    "tslib": "^2.3.0"
+    "rxjs": "^7.8.0",
+    "tslib": "^2.3.0",
+    "web-midi-test": "^1.2.3"
   }
 }

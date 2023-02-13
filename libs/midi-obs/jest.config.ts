@@ -12,4 +12,5 @@ export default {
   },
   moduleFileExtensions: ['ts', 'js', 'html'],
   coverageDirectory: '../../coverage/libs/midi-obs',
+  testEnvironment: 'jest-environment-jsdom',
 };
